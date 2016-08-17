@@ -1,14 +1,14 @@
-layout_spectrum: 0.5626731035299599
-typography_spectrum: 0.9110012275632471
+layout_spectrum: 0.5835731509141624
+typography_spectrum: 0.06761736795306206
 color:
-  brandStrength: 0.4033532568719238
-  lightness: 0.6661048782989383
-  saturation: 0.7482607520651072
-  rhythmicContrast: 0.3200365381781012
+  brandStrength: 0.19940292299725115
+  lightness: 0.23406399856321514
+  saturation: 0.05867979419417679
+  rhythmicContrast: 0.8852883211802691
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Oxymoron
